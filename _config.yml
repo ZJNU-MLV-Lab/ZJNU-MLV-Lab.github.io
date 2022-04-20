@@ -1,9 +1,9 @@
 ## Site settings
 # title, shows up in browser title bar
-title: Your First Pull Request
+title: MLV Lab
 # description shows up in site meta data, for search engines
 description: |
-  Your First PR helps you get started contributing to Open Source by showcasing great starter issues on Github and elsewhere.
+  Machine Learning and Vision Lab at Zhejiang Normal University.
 
 # baseurl is used to format links in jekyll
 baseurl: ""
@@ -12,14 +12,14 @@ url: "http://zjnu-mlv-lab.github.io/"
 # nice and clean blog URLs
 permalink: "/blog/:title.html"
 # name is used in the page header
-name: Your First PR
+name: MLV Lab
 
 
 ## default site author info
 # author is the name below posts
-author: James Spencer
+author: Dawei Zhang
 # author-url links this name to another page, twitter etc
-author-url: https://twitter.com/varjmes
+author-url: https://davidzhangdw.github.io/
 
 ## this prevents jekyll from building pages that are not website pages, but repo only pages
 exclude: ["README.md", "CODEOFCONDUCT.md"]
