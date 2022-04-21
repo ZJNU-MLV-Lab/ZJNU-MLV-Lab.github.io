@@ -34,7 +34,7 @@ header a, footer a {
 
 
 header a:hover, footer a:hover {
-    color: #000000;
+    color: #292929;
 }
 
 header ul {
@@ -65,7 +65,7 @@ a {
 }
 
 a:hover {
-    color: #000000;
+    color: #292929;
     border-bottom: 1px solid #000;
 }
 
