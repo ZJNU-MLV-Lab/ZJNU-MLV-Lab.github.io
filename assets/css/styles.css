@@ -54,7 +54,7 @@ header li:last-of-type {
 
 #main {
     padding: 20px 15px;
-    font-size: 1em;
+    font-size: 1.05em;
 }
 
 a {
@@ -77,7 +77,7 @@ li {
 }
 
 #headline {
-    font-size: 1.25em;
+    font-size: 1.26em;
 }
 
 hr {
