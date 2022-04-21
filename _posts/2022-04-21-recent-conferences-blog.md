@@ -15,7 +15,7 @@ NeurIPS 2022:
 
 开会时间: 2022-11-28
 
-CCF分类: A类
+CCF分类: CCF-A类
 
 会议地点: online
 
@@ -31,7 +31,7 @@ ICONIP 2022:
 
 开会时间: 2022-11-22
 
-CCF分类: C类
+CCF分类: CCF-C类
 
 会议地点: New Delhi, India
 
@@ -45,7 +45,7 @@ PRICAI 2022:
 
 开会时间: 2022-11-10
 
-CCF分类: C类
+CCF分类: CCF-C类
 
 会议地点: Shanghai, China
 
@@ -59,7 +59,7 @@ ACCV 2022:
 
 开会时间: 2022-12-04
 
-CCF分类: C类
+CCF分类: CCF-C类
 
 会议地点: Macau, China
 
