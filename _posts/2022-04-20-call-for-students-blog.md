@@ -25,7 +25,7 @@ Commitments:
 ~~~
 1) We will provide you a full range of effective guidance in algorithm design, experimental verification, paper writing, patent application, etc. 
 
-2) Provide you enjoyable scientific research atmosphere, comfortable research environment, generous allowance/rewards, and efficient computing equipment; 
+2) Provide you enjoyable scientific research atmosphere, comfortable research environment, generous allowance/rewards, and efficient computing equipment.
 
 3) For the students who succesfully get their papers accepted by top conferences, we will financially support them to participate in the conferences.
 ~~~
