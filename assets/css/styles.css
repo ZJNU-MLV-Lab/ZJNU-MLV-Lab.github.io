@@ -53,7 +53,7 @@ header li:last-of-type {
 /* End Header Block Styling */
 
 #main {
-    padding: 20px 15px 20px 10px;
+    padding: 20px 15px 20px 8px;
     font-size: 1.08em;
     color: #2e2e2e;
 }
