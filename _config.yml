@@ -5,6 +5,13 @@ title: MLV Lab
 description: |
   Machine Learning and Vision Lab at Zhejiang Normal University.
 
+favicon:
+  small: /logos/mlv-logo.png
+  medium: /logos/mlv-logo.png
+  apple_touch_icon: /logos/mlv-logo.png
+  safari_pinned_tab: /logos/mlv-logo.png
+  #android_manifest: /logos/mlv-logo.png
+
 # baseurl is used to format links in jekyll
 baseurl: ""
 # url is the sites full domain name
