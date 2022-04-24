@@ -5,8 +5,6 @@ title: MLV Lab
 description: |
   Machine Learning and Vision Lab at Zhejiang Normal University.
 
-favicon: /logos/mlv-logo.png
-
 # baseurl is used to format links in jekyll
 baseurl: ""
 # url is the sites full domain name
@@ -15,7 +13,6 @@ url: "http://zjnu-mlv-lab.github.io/"
 permalink: "/blog/:title.html"
 # name is used in the page header
 name: MLV Lab
-
 
 ## default site author info
 # author is the name below posts
